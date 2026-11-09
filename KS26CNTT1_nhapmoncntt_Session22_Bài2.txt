@@ -1,12 +1,7 @@
 Bài 2: Xử lý lỗi thư viện mã nguồn mở bằng GitHub Issues
 1. Ưu tiên đọc bình luận nào?
 
-Em sẽ ưu tiên những bình luận có nhiều lượt Thumbs Up, Hearts và Reactions. Đặc biệt là bình luận có cách sửa lỗi cụ thể và được nhiều người xác nhận đã thử thành công.
+Em sẽ ưu tiên những bình luận có nhiều lượt Thumbs Up, Hearts 
 
-2. Workaround là gì?
-
-Workaround là cách khắc phục tạm thời để tiếp tục sử dụng thư viện khi chưa có bản sửa lỗi chính thức
-
-3. Tại sao không nên chờ bản cập nhật chính thức?
-
-Vì nhà phát triển có thể mất nhiều thời gian để sửa lỗi và phát hành phiên bản mới. Dùng Workaround giúp em tiếp tục làm việc, không bị gián đoạn hay chậm tiến độ dự án
+2. Tại sao không nên chờ bản cập nhật chính thức?
+vì Workaround là giải pháp tạm thời để khắc phục hoặc tránh lỗi phần mềm trong khi chờ nhà phát triển sửa lỗi chính thức , không nên đợi bản cập nhật chính thức từ  nhà sản xuất vì không biết chừng nào nhà sản xuất mới sửa xong .
